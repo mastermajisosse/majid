@@ -1,0 +1,2 @@
+# majid
+static portfolio website
